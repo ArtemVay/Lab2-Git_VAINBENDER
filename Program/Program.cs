@@ -1,9 +1,3 @@
-﻿namespace Program;
+﻿Console.WriteLine("Enter yout name:");
+string? name = Console.ReadLine();
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-    }
-}
